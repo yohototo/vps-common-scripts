@@ -101,7 +101,11 @@ bash <(wget -qO- https://raw.githubusercontent.com/fscarmen/sing-box/main/sing-b
 ```
 [甬哥sing-box 四协议共存](https://github.com/yonggekkk/sing-box_hysteria2_tuic_argo_reality)
 ```
-bash <(curl -Ls https://gitlab.com/rwkgyg/sing-box-yg/raw/main/sb.sh)
+bash <(wget -qO- https://raw.githubusercontent.com/yonggekkk/sing-box-yg/main/sb.sh)
+```
+或者
+```
+bash <(curl -Ls https://raw.githubusercontent.com/yonggekkk/sing-box-yg/main/sb.sh)
 ```
 
 [hy2一键 misaka](https://blog.misaka.rest/2023/09/02/hysteria2-script/)
