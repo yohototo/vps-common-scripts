@@ -298,7 +298,7 @@ bash <(curl -sSL https://raw.githubusercontent.com/fscarmen/tools/main/root.sh)
 ```javascript data-lang="java"
 passwd root
 ```
-### DD脚本
+### DD脚本 密码LeitboGi0ro
 #### Download:
 <pre><code>wget --no-check-certificate -qO InstallNET.sh 'https://raw.githubusercontent.com/leitbogioro/Tools/master/Linux_reinstall/InstallNET.sh' && chmod a+x InstallNET.sh</code></pre>
 Servers in mainland of China:
